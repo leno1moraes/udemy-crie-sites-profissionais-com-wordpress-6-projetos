@@ -1,0 +1,10 @@
+/*
+Widget at Apperence > widgets 
+*/
+
+.widgets-holder-wrap [id*="royale-news"] .widget-top {
+
+    background: #ffd0c8;
+    box-shadow: none !important;
+    border: none !important;
+}

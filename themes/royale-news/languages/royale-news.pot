@@ -1,0 +1,1215 @@
+# Copyright (C) 2023 themebeez
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Royale News 2.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/royale-news\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-02T10:20:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: royale-news\n"
+
+#. Theme Name of the theme
+msgid "Royale News"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://themebeez.com/themes/royale-news/"
+msgstr ""
+
+#. Description of the theme
+msgid "Royale News is a simple, clean, minimal and lightweight WordPress theme for creating magazine and news websites. It is a modern theme with elgant, resposive and user friendly design. With one click demo import it is easy to setup your website. Customization is easy due to built in theme options. One can easily manage contents and sections with the help of built in widgets. It is gutenberg compatible and has support for many plugins such as Yoast, Contact Form 7, Universal Google AdSense And Ads Manager, Simple GDPR Cookie Compliance. etc. It is also translation ready. For more detail visit, https://themebeez.com/themes/royale-news/. To view demos, visit, https://themebeez.com/demos/?theme=royale-news"
+msgstr ""
+
+#. Author of the theme
+msgid "themebeez"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themebeez.com"
+msgstr ""
+
+#: 404.php:28
+msgid "404"
+msgstr ""
+
+#: 404.php:29
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: functions.php:59
+msgid "Social"
+msgstr ""
+
+#: functions.php:60
+msgid "Footer"
+msgstr ""
+
+#: functions.php:138
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:150
+msgid "Featured Posts Widget Area"
+msgstr ""
+
+#: functions.php:152
+msgid "Add Main Featured Posts or Slider Featured Posts widgets here."
+msgstr ""
+
+#: functions.php:162
+msgid "FrontPage Widget Area"
+msgstr ""
+
+#: functions.php:164
+msgid "Add Main Highlight or Slider Highlight widgets here."
+msgstr ""
+
+#: functions.php:174
+msgid "FrontPage Bottom Widget Area"
+msgstr ""
+
+#: functions.php:176
+msgid "Add Widgets Here."
+msgstr ""
+
+#: functions.php:186
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:188
+msgid "Add only four widgets here."
+msgstr ""
+
+#: functions.php:198
+msgid "Header Advertisement"
+msgstr ""
+
+#: functions.php:200
+msgid "Add advertisement here."
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Royale News Pro"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Upgrade to Pro"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:78
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:81
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:85
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:88
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:105
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:122
+#: template-parts/content-page.php:63
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:52
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Template Name of the theme
+msgid "FrontPage"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:48
+#: template-parts/content-single.php:67
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:65
+#: template-parts/content.php:61
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:54
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: themebeez/customizer/controls/class-royale-news-dropdown-taxonomies-control.php:89
+msgid "Select"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:219
+msgid "Font Family"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:226
+msgid "Websafe Fonts"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:245
+msgid "Google Fonts"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:276
+msgid "Variants"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:301
+msgid "Font Weight"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:337
+msgid "Font Size"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:605
+msgid "Line Height"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:702
+msgid "Letter Spacing"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:971
+msgid "Text Style"
+msgstr ""
+
+#: themebeez/customizer/controls/typography/class-royale-news-customize-typography-control.php:1057
+msgid "Text Transform"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:47
+#: themebeez/customizer/customizer-choices.php:64
+msgid "Left"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:48
+msgid "Right"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:49
+msgid "None"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:65
+msgid "Center"
+msgstr ""
+
+#: themebeez/customizer/options.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:21
+msgid "Royale News Customization Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:40
+msgid "Site Title Font Size"
+msgstr ""
+
+#: themebeez/customizer/options.php:62
+msgid "Logo Position"
+msgstr ""
+
+#: themebeez/customizer/options.php:63
+msgid "If logo is placed at center, then the header advertisement area will be disabled."
+msgstr ""
+
+#: themebeez/customizer/options.php:84
+msgid "Ticker News Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:85
+msgid "Configure Ticker News"
+msgstr ""
+
+#: themebeez/customizer/options.php:101
+msgid "Ticker News Title"
+msgstr ""
+
+#: themebeez/customizer/options.php:120
+msgid "Choose Category"
+msgstr ""
+
+#: themebeez/customizer/options.php:139
+msgid "No of Posts"
+msgstr ""
+
+#: themebeez/customizer/options.php:152
+msgid "Current Date Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:153
+msgid "Configure Current Date"
+msgstr ""
+
+#: themebeez/customizer/options.php:171
+msgid "Show Current Date"
+msgstr ""
+
+#: themebeez/customizer/options.php:184
+msgid "Search Button Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:185
+msgid "Configure Search Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:203
+msgid "Show Search Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:222
+msgid "Copyright Text Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:223
+msgid "Configure Copyright Text"
+msgstr ""
+
+#: themebeez/customizer/options.php:239
+msgid "Copyright Text"
+msgstr ""
+
+#: themebeez/customizer/options.php:240
+msgid "Insert copyright text"
+msgstr ""
+
+#: themebeez/customizer/options.php:252
+msgid "Scroll Top Button Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:253
+msgid "Configure Scroll Top Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:271
+msgid "Show Scroll Top Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:288
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:289
+msgid "Configure Breadcrumb"
+msgstr ""
+
+#: themebeez/customizer/options.php:307
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: themebeez/customizer/options.php:325
+msgid "Blog Page Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:326
+msgid "Configure Blog page"
+msgstr ""
+
+#: themebeez/customizer/options.php:344
+msgid "Show Featured Posts"
+msgstr ""
+
+#: themebeez/customizer/options.php:362
+msgid "Post Single Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:363
+msgid "Configure post single"
+msgstr ""
+
+#: themebeez/customizer/options.php:379
+#: themebeez/customizer/options.php:412
+msgid "Display Featured Image"
+msgstr ""
+
+#: themebeez/customizer/options.php:395
+msgid "Page Single Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:396
+msgid "Configure page single"
+msgstr ""
+
+#: themebeez/customizer/options.php:429
+msgid "Sidebar Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:430
+msgid "Configure Sidebar Position"
+msgstr ""
+
+#: themebeez/customizer/options.php:446
+msgid "Sidebar Position"
+msgstr ""
+
+#: themebeez/customizer/options.php:447
+msgid "Select Sidebar Postion. Select none to hide sidebar."
+msgstr ""
+
+#: themebeez/customizer/options.php:465
+msgid "Post Meta Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:482
+msgid "Enable Post Date"
+msgstr ""
+
+#: themebeez/customizer/options.php:500
+msgid "Enable Author Name"
+msgstr ""
+
+#: themebeez/customizer/options.php:518
+msgid "Enable Comments Number"
+msgstr ""
+
+#: themebeez/customizer/options.php:536
+msgid "Enable Categories"
+msgstr ""
+
+#: themebeez/customizer/options.php:552
+msgid "Excerpt"
+msgstr ""
+
+#: themebeez/customizer/options.php:568
+msgid "Excerpt Length"
+msgstr ""
+
+#: themebeez/customizer/options.php:586
+msgid "Typography"
+msgstr ""
+
+#: themebeez/customizer/options.php:604
+msgid "Body Font"
+msgstr ""
+
+#: themebeez/customizer/options.php:623
+msgid "Headings Font"
+msgstr ""
+
+#: themebeez/filters.php:18
+msgid "Search for:"
+msgstr ""
+
+#: themebeez/filters.php:18
+msgid "Search"
+msgstr ""
+
+#: themebeez/filters.php:87
+msgid "Full Name *"
+msgstr ""
+
+#: themebeez/filters.php:88
+msgid "Email Address *"
+msgstr ""
+
+#: themebeez/filters.php:90
+msgid "Website"
+msgstr ""
+
+#: themebeez/filters.php:110
+msgid "comment_news comment-form"
+msgstr ""
+
+#: themebeez/filters.php:111
+msgid "Leave comment"
+msgstr ""
+
+#: themebeez/filters.php:114
+msgid "Your email address will not be published. Required fields are marked with *."
+msgstr ""
+
+#: themebeez/filters.php:115
+msgid "Comment"
+msgstr ""
+
+#: themebeez/filters.php:116
+msgid "btn btn-default submit-btn"
+msgstr ""
+
+#: themebeez/filters.php:117
+msgid "Post A Comment"
+msgstr ""
+
+#: themebeez/helpers.php:20
+msgid "Add Menu"
+msgstr ""
+
+#: themebeez/helpers.php:22
+msgid "Add a menu"
+msgstr ""
+
+#: themebeez/hooks.php:58
+msgid "Skip to content"
+msgstr ""
+
+#: themebeez/hooks.php:590
+msgid "&laquo;"
+msgstr ""
+
+#: themebeez/hooks.php:591
+msgid "&raquo;"
+msgstr ""
+
+#. translators: 1: copyright text, 2: theme name, 3: theme URL
+#: themebeez/hooks.php:690
+msgid "%1$s %2$s by %3$s"
+msgstr ""
+
+#. translators: 1: theme name, 2: theme URL
+#: themebeez/hooks.php:703
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:260
+msgid "Browse:"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:261
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:262
+msgid "Home"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:263
+msgid "404 Not Found"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:264
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: themebeez/third-party/breadcrumbs.php:266
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: themebeez/third-party/breadcrumbs.php:268
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: themebeez/third-party/breadcrumbs.php:270
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: themebeez/third-party/breadcrumbs.php:272
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: themebeez/third-party/breadcrumbs.php:274
+msgid "Week %s"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:779
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:797
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:815
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:832
+#: themebeez/third-party/breadcrumbs.php:862
+#: themebeez/third-party/breadcrumbs.php:902
+#: themebeez/third-party/breadcrumbs.php:930
+#: themebeez/third-party/breadcrumbs.php:1289
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:833
+#: themebeez/third-party/breadcrumbs.php:903
+#: themebeez/third-party/breadcrumbs.php:1293
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:834
+#: themebeez/third-party/breadcrumbs.php:1297
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:863
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: themebeez/third-party/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: themebeez/third-party/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: themebeez/third-party/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: themebeez/third-party/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: themebeez/third-party/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: themebeez/third-party/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:393
+#: themebeez/third-party/class-tgm-plugin-activation.php:923
+#: themebeez/third-party/class-tgm-plugin-activation.php:2669
+#: themebeez/third-party/class-tgm-plugin-activation.php:3722
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:394
+#: themebeez/third-party/class-tgm-plugin-activation.php:3297
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:395
+#: themebeez/third-party/class-tgm-plugin-activation.php:3090
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: themebeez/third-party/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:1032
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:1032
+#: themebeez/third-party/class-tgm-plugin-activation.php:1042
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:1231
+#: themebeez/third-party/class-tgm-plugin-activation.php:3086
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: themebeez/third-party/class-tgm-plugin-activation.php:2100
+msgid "TGMPA v%s"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2409
+msgid "Required"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2412
+msgid "Recommended"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2428
+msgid "WordPress Repository"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2431
+msgid "External Source"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2434
+msgid "Pre-Packaged"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2451
+msgid "Not Installed"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2455
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2457
+msgid "Active"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2463
+msgid "Required Update not Available"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2466
+msgid "Requires Update"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2469
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: themebeez/third-party/class-tgm-plugin-activation.php:2478
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: themebeez/third-party/class-tgm-plugin-activation.php:2524
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: themebeez/third-party/class-tgm-plugin-activation.php:2528
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: themebeez/third-party/class-tgm-plugin-activation.php:2532
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: themebeez/third-party/class-tgm-plugin-activation.php:2536
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2618
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2626
+msgid "Installed version:"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2634
+msgid "Minimum required version:"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2646
+msgid "Available version:"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2669
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2683
+msgid "Plugin"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2684
+msgid "Source"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2685
+msgid "Type"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2689
+msgid "Version"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2690
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: themebeez/third-party/class-tgm-plugin-activation.php:2739
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: themebeez/third-party/class-tgm-plugin-activation.php:2744
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: themebeez/third-party/class-tgm-plugin-activation.php:2750
+msgid "Activate %2$s"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2822
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2855
+msgid "Install"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2861
+msgid "Update"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2864
+msgid "Activate"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2895
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2897
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2938
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:2940
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3046
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3072
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3296
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3640
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3643
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3645
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3649
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3651
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3651
+#: themebeez/third-party/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3651
+#: themebeez/third-party/class-tgm-plugin-activation.php:3659
+msgid "Hide Details"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3652
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3654
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3657
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3659
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: themebeez/third-party/class-tgm-plugin-activation.php:3660
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: themebeez/third-party/class-tgm-plugin-activation.php:3662
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-one.php:28
+msgid "RN: Bottom News Layout One"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-one.php:31
+msgid "Bottom News Layout One. Place it within \"FrontPage Bottom Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-one.php:168
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-two.php:178
+#: themebeez/widgets/class-royale-news-sidebar-widget-one.php:159
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:180
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:242
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:232
+msgid "Title: "
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-one.php:172
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-two.php:182
+msgid "Select Category:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-one.php:202
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-two.php:212
+#: themebeez/widgets/class-royale-news-slider-featured-posts.php:178
+msgid "Latest Posts"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-one.php:214
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-two.php:224
+#: themebeez/widgets/class-royale-news-sidebar-widget-one.php:183
+#: themebeez/widgets/class-royale-news-slider-featured-posts.php:191
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:266
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:256
+msgid "Post No: "
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-two.php:29
+msgid "RN: Bottom News Layout Two"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-bottom-widget-layout-two.php:32
+msgid "Bottom News Layout Two. Place it within \"FrontPage Bottom Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:29
+msgid "RN: Main Featured Posts With Slider"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:32
+msgid "Displays featured posts with layout similar to \"RN: Main Featured Posts\" widget but with slider. Place it in \"Featured Posts Widget Area\" widget area."
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:252
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:237
+msgid "Left Highlight:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:264
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:288
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:307
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:249
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:267
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:286
+#: themebeez/widgets/class-royale-news-sidebar-widget-one.php:176
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:259
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:249
+msgid "Show Recent Posts"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:271
+msgid "Slider Post No: "
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:277
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:256
+msgid "Right Top Highlight:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts-two.php:295
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:274
+msgid "Right Bottom Highlight:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:28
+msgid "RN: Main Featured Posts"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-main-featured-posts.php:31
+msgid "Displays three distinct featured posts. Place it in \"Featured Posts Widget Area\" widget area."
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-one.php:28
+msgid "RN: Recent Posts"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-one.php:31
+msgid "Displays posts. Place it in \"Sidebar\" or \"Footer Widget Area\"."
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-one.php:165
+#: themebeez/widgets/class-royale-news-slider-featured-posts.php:147
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:248
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:238
+msgid "Select Category: "
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:28
+msgid "Social Links Widget. Place it in \"Sidebar\"."
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:31
+msgid "RN: Social Widget"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:67
+msgid "Facebook"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:80
+msgid "Twitter"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:93
+msgid "Instagram"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:106
+msgid "Linked In"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:119
+msgid "Youtube"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:187
+msgid "Facebook Link:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:194
+msgid "Twitter Link:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:201
+msgid "Instagram Link:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:208
+msgid "linkedin Link:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-sidebar-widget-two.php:215
+msgid "Youtube Link:"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-slider-featured-posts.php:29
+msgid "RN: Slider Featured Posts"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-slider-featured-posts.php:32
+msgid "Displays posts as featured posts in Slider. Place it in \"Featured Posts Wiget Area\" widget area. It only works in the widget area."
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:29
+msgid "RN: News Layout One"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:32
+msgid "News Layout One. Place it within \"FrontPage Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-widget-layout-one.php:70
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:71
+msgid "View More"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:29
+msgid "RN: News Layout Two"
+msgstr ""
+
+#: themebeez/widgets/class-royale-news-widget-layout-two.php:32
+msgid "News Layout Two. Place it within \"FrontPage Widget Area\""
+msgstr ""
