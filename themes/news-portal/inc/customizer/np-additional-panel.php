@@ -62,7 +62,7 @@ function news_portal_additional_settings_register( $wp_customize ) {
         $wp_customize, 
             'social_media_icons', 
             array(
-                'label'   => __( 'Social Media Icons', 'news-portal' ),
+                'label'   => __( 'Social Media Icons teste leno', 'news-portal' ),
                 'section' => 'news_portal_social_icons_section',
                 'settings' => 'social_media_icons',
                 'priority' => 5,
@@ -72,7 +72,7 @@ function news_portal_additional_settings_register( $wp_customize ) {
             array(
                 'social_icon_class' => array(
                     'type'        => 'social_icon',
-                    'label'       => __( 'Social Media Logo', 'news-portal' ),
+                    'label'       => __( 'Social Media Logo teste leno 2', 'news-portal' ),
                     'description' => __( 'Choose social media icon.', 'news-portal' )
                 ),
                 'social_icon_url' => array(

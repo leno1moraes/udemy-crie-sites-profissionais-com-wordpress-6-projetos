@@ -6,7 +6,7 @@ services:
     image: mysql:8
 #    restart: always
     ports:
-      - 3306:3306    
+      - 5006:3306    
     environment:
       MYSQL_DATABASE: wordpress
       MYSQL_USER: wordpress
@@ -21,7 +21,7 @@ services:
     build: .
 #    restart: always
     ports:
-      - 8080:80
+      - 5080:80
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: wordpress
@@ -37,7 +37,7 @@ services:
     image: adminer
     restart: always
     ports:
-      - 8084:8080      
+      - 5084:8080      
 
 volumes:
   wordpress08082023:
